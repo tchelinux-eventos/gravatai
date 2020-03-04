@@ -2,7 +2,7 @@
 
 ## Sobre
 
-O grupo de usuários de Software Livre Tchelinux, em parceria com a [CNEC](http://educacaosuperior.cnec.br/gravatai), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **9 de Maio de 2020 a partir das 8:30h** na Faculdade CNEC em Gravataí.
+O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Faculdade QI** ](https://qi.edu.br/graduacao/informacoes/faqigravatai/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **9 de Maio de 2020 a partir das 8:30h** na Faculdade QI em Gravataí.
 
 ## Chamada de Trabalhos
 
@@ -26,20 +26,20 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 ## Local
 
-> **Faculdade CNEC Gravataí**
-> Avenida José Loureiro da Silva, 1991
+> **Faculdade QI Gravataí**
+> Av. Dorival Cândido Luz de Oliveira, 2595 
 > Centro
 > Gravataí - RS
 
 <div class="map-responsive">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d864.3617305999599!2d-50.99558219878716!3d-29.937820891395525!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x938e4c639aea5669!2sFaculty%20Cenecista%20Our%20Lady%20of%20Angels!5e0!3m2!1sen!2sbr!4v1582082019672!5m2!1sen!2sbr" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13830.177994840682!2d-51.03092818575107!3d-29.93501300369206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951974ae5a6229b3%3A0xd016a63016b3c190!2sAv.%20Dorival%20C%C3%A2ndido%20Luz%20de%20Oliveira%2C%202595%20-%20Parada%2074%2C%20Gravata%C3%AD%20-%20RS%2C%2094030-001!5e0!3m2!1sen!2sbr!4v1583280917271!5m2!1sen!2sbr" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 </div>
 
 ## Apoio
 
 ### Institucional
 
-[![Faculdade CNEC Gravataí](images/cnec.png)](http://educacaosuperior.cnec.br/gravatai)
+[![Faculdade QI Gravataí](images/logo_QI.png)](https://qi.edu.br/graduacao/informacoes/faqigravatai/)
 
 ### Patrocínio
 
